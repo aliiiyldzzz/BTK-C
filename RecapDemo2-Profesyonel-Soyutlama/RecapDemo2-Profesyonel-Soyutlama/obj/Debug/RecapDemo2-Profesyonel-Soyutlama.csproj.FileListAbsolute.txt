@@ -1,0 +1,8 @@
+C:\Users\asus\OneDrive\Masaüstü\btk-akademi-c#\RecapDemo2-Profesyonel-Soyutlama\RecapDemo2-Profesyonel-Soyutlama\bin\Debug\RecapDemo2-Profesyonel-Soyutlama.exe.config
+C:\Users\asus\OneDrive\Masaüstü\btk-akademi-c#\RecapDemo2-Profesyonel-Soyutlama\RecapDemo2-Profesyonel-Soyutlama\bin\Debug\RecapDemo2-Profesyonel-Soyutlama.exe
+C:\Users\asus\OneDrive\Masaüstü\btk-akademi-c#\RecapDemo2-Profesyonel-Soyutlama\RecapDemo2-Profesyonel-Soyutlama\bin\Debug\RecapDemo2-Profesyonel-Soyutlama.pdb
+C:\Users\asus\OneDrive\Masaüstü\btk-akademi-c#\RecapDemo2-Profesyonel-Soyutlama\RecapDemo2-Profesyonel-Soyutlama\obj\Debug\RecapDemo2-Profesyonel-Soyutlama.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Masaüstü\btk-akademi-c#\RecapDemo2-Profesyonel-Soyutlama\RecapDemo2-Profesyonel-Soyutlama\obj\Debug\RecapDemo2-Profesyonel-Soyutlama.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\OneDrive\Masaüstü\btk-akademi-c#\RecapDemo2-Profesyonel-Soyutlama\RecapDemo2-Profesyonel-Soyutlama\obj\Debug\RecapDemo2-Profesyonel-Soyutlama.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Masaüstü\btk-akademi-c#\RecapDemo2-Profesyonel-Soyutlama\RecapDemo2-Profesyonel-Soyutlama\obj\Debug\RecapDemo2-Profesyonel-Soyutlama.exe
+C:\Users\asus\OneDrive\Masaüstü\btk-akademi-c#\RecapDemo2-Profesyonel-Soyutlama\RecapDemo2-Profesyonel-Soyutlama\obj\Debug\RecapDemo2-Profesyonel-Soyutlama.pdb
